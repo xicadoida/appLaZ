@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicationFeed</string>
+    <string name="evento_teatro">Evento Teatro</string>
+    <string name="detalhes_do_evento_dadeyergyuerjsgerygserigswisgegfggggghydsegisydfisydifsfyfyifyisyfigfgyfffigyygrfygfisfygfsrygfihrfyghi">Detalhes do evento: dadeyergyuerjsgerygserigswisgegfggggghydsegisydfisydifsfyfyifyisyfigfgyfffigyygrfygfisfygfsrygfihrfyghi.</string>
+    <string name="detalhes_do_evento_dagggghydsegisydfisydifsfyfyifyisyfigfgyfffigyygrfygfisfygfsrygfihrfyghi" />
+    <string name="detalhes_do_evento" />
+    <string name="textview">TextView</string>
+    <string name="descricao_do_evento" />
+</resources>
